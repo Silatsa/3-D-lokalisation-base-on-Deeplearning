@@ -1,0 +1,1 @@
+Ziel dieser Teilaufgabe ist es, den Abstand von einem Schalter zu der Kamera zu bestimmen. Der Ansatz hierbei besteht aus zwei Stufen: Schaltererkennung (Detection) anhand des RGB-Bilds (Farbbild) und Schalterlokalisierung (Lokalisierung) anhand des Tiefenbilds
